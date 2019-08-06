@@ -1,1 +1,2 @@
-export default require("regenerator-runtime");
+import regenerator from 'regenerator-runtime'
+export default regenerator
